@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:09,080
+Let me show you how you can save your Google VADs project as the local mp4 video file.
+
+2
+00:00:09,080 --> 00:00:18,519
+You will need to head to file, add left, then select download as mp4.
+
+3
+00:00:18,519 --> 00:00:24,080
+It will need to process your video so it may take a moment and after that the download
+
+4
+00:00:24,080 --> 00:00:25,760
+will start.
+
+5
+00:00:25,760 --> 00:00:29,240
+And here it is, I already got it on my hard drive.
+
+6
+00:00:29,240 --> 00:00:31,080
+For example video dot mp4.
+
+7
+00:00:31,080 --> 00:00:36,280
+So now I can use that file to play my video locally or to send to somebody.
+
+8
+00:00:36,280 --> 00:00:44,840
+You can also share it, so generate a link to the project in your Google Drive.
+
+9
+00:00:44,840 --> 00:00:49,400
+I hope this short tutorial was helpful, I will see you in the next one.
+
